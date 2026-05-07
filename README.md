@@ -53,7 +53,7 @@ Com interesse em tecnologia, programação e resolução de problemas, atualment
 
 <p align="center">
   <a href="https://open.spotify.com/intl-pt/album/79dL7FLiJFOO0EoehUHQBv">
-    <img src="./images/currents.jpg" width="100%"/>
+    <img src="./images/currents-banner.jpg" width="100%"/>
   </a>
 </p>
 
