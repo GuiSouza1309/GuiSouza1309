@@ -1,6 +1,6 @@
-# Olá! Eu sou o Guilherme 👋
+# Bem-vindo ao meu ecossistema de desenvolvimento
 
-Com interesse em tecnologia, programação e resolução de problemas, atualmente estou aprofundando meus estudos em Ciência da Computação e desenvolvimento backend. Gosto especialmente de áreas relacionadas a lógica, matemática e sistemas. 🚀
+Com interesse em tecnologia, programação e resolução de problemas, atualmente estou aprofundando meus estudos em Ciência da Computação e desenvolvimento backend. Gosto especialmente de áreas relacionadas a lógica, matemática e sistemas. 
 
 🎓 Cursando Ciência da Computação - UFBA
 
@@ -12,6 +12,7 @@ Com interesse em tecnologia, programação e resolução de problemas, atualment
 
 ## 📫 Você pode me encontrar em:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-d-afonseca-623109412/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidafonseca2006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guidafonseca)
 
