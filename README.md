@@ -4,7 +4,7 @@ Com interesse em tecnologia, programação e resolução de problemas, atualment
 
 🎓 Cursando Ciência da Computação - UFBA
 
-👨‍💻 Trainee em Backend da TITAN<a href="https://www.titanci.com.br/">
+👨‍💻 Desenvolvedor Backend da TITAN<a href="https://www.titanci.com.br/">
   <img src="./images/titan.jpg" width="20"/>
 </a>
 
